@@ -12,7 +12,7 @@ Python version 3.11.1
 
 # Description
 
-This tool helps you to ** remove all comments ** in a python script.
+This tool helps you to **remove all comments** in a python script.
 
 As usually, I wrote everything you have to know, directly commentend in the scripts.
 
