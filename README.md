@@ -1,4 +1,4 @@
-Python version 3.11.1
+Python version 3.11.1 | [![Download silence](https://img.shields.io/sourceforge/dm/comments-remover.svg)](https://sourceforge.net/projects/comments-remover/files/latest/download)
 
 ```
 ███████╗██╗██╗     ███████╗███╗   ██╗ ██████╗███████╗
@@ -28,6 +28,8 @@ I made both because the 2 scripts allows you to remove comments on ONLY ONE FILE
 ![silence](https://user-images.githubusercontent.com/92639080/215332222-3cbc2338-0307-4f4e-9338-43d97619ef23.jpg)
 
 ⁿᵒᵗᵉ If your code include #, all line after # will disappear like in this screenshot
+
+[![Download silence](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/comments-remover/files/latest/download)
 
 # HOW TO RUN ;
 
