@@ -18,7 +18,7 @@ As usually, I wrote everything you have to know, directly commentend in the scri
 
 You have 2 versions :
 
-* Simple script (so you will have to change path(s) in inside ).
+* Simple script (so you will have to change path(s) inside ).
 
 * With GUI (graphical interface) using PyQT5, so easy to make a smartphone application if you need.
 
