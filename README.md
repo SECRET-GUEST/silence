@@ -1,4 +1,4 @@
-Python version 3.11.1 | [![Download silence](https://img.shields.io/sourceforge/dm/comments-remover.svg)](https://sourceforge.net/projects/comments-remover/files/latest/download)
+Python version 3.11.1 | [![Download silence](https://img.shields.io/sourceforge/dt/comments-remover.svg)](https://sourceforge.net/projects/comments-remover/files/latest/download)
 
 ```
 ███████╗██╗██╗     ███████╗███╗   ██╗ ██████╗███████╗
