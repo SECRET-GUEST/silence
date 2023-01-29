@@ -28,8 +28,7 @@ You have 2 versions :
 
 I made both because the 2 scripts allows you to remove comments on ONLY ONE FILE.py , so you will maybe change the function to use it for lot of files.
 
-
-![silence](https://user-images.githubusercontent.com/92639080/215332099-9e0e5e5c-3748-460a-a0c2-4f1f8e791386.jpg)
+![silence](https://user-images.githubusercontent.com/92639080/215332222-3cbc2338-0307-4f4e-9338-43d97619ef23.jpg)
 
 
 
