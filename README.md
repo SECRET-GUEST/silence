@@ -10,9 +10,6 @@ Python version 3.11.1
                                                      
 ```
 
-![1](https://user-images.githubusercontent.com/92639080/215332111-185484c9-db0c-413e-aa73-390dd9bca1f9.jpg)
-
-
 # Description
 
 This tool helps you to **remove all comments** in a python script.
@@ -30,7 +27,7 @@ I made both because the 2 scripts allows you to remove comments on ONLY ONE FILE
 
 ![silence](https://user-images.githubusercontent.com/92639080/215332222-3cbc2338-0307-4f4e-9338-43d97619ef23.jpg)
 
-
+ⁿᵒᵗᵉ If your code include #, all line after # will disappear like in this screenshot
 
 # HOW TO RUN ;
 
